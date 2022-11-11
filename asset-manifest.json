@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Filis-Cattus/static/css/main.c3f6c66c.css",
-    "main.js": "/Filis-Cattus/static/js/main.5510f6b9.js",
+    "main.js": "/Filis-Cattus/static/js/main.21ad156c.js",
     "static/js/787.28cb0dcd.chunk.js": "/Filis-Cattus/static/js/787.28cb0dcd.chunk.js",
     "static/media/cat3.jpg": "/Filis-Cattus/static/media/cat3.d753a0604c8ed7d2ed74.jpg",
     "static/media/cat5.jpg": "/Filis-Cattus/static/media/cat5.24a2cd615909294b4cf4.jpg",
     "static/media/cat4.jpg": "/Filis-Cattus/static/media/cat4.f6f53e9615d72751cd8c.jpg",
     "index.html": "/Filis-Cattus/index.html",
     "main.c3f6c66c.css.map": "/Filis-Cattus/static/css/main.c3f6c66c.css.map",
-    "main.5510f6b9.js.map": "/Filis-Cattus/static/js/main.5510f6b9.js.map",
+    "main.21ad156c.js.map": "/Filis-Cattus/static/js/main.21ad156c.js.map",
     "787.28cb0dcd.chunk.js.map": "/Filis-Cattus/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3f6c66c.css",
-    "static/js/main.5510f6b9.js"
+    "static/js/main.21ad156c.js"
   ]
 }
