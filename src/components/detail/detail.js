@@ -38,7 +38,7 @@ console.log(breed);
                 </div>
             }
         </div>
-               <div className="backtohome-box">   <Link to='/' className="backtohome" > 
+               <div className="backtohome-box">   <Link to= '/Filis-cattus' className="backtohome" > 
                  Return To Home Page
                  </Link>
                  </div>
