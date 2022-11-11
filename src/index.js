@@ -11,8 +11,8 @@ root.render(
   <React.StrictMode>
      <BrowserRouter>
       <Routes> 
-      <Route path="Filis-Cattus/" element={<App />} />
-      <Route path="Filis-Cattus/detail" element={<Detail />} />
+      <Route path="*" element={<App />} />
+      <Route path="/detail" element={<Detail />} />
     </Routes>
     </BrowserRouter>
   </React.StrictMode>
